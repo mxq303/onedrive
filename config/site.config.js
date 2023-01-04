@@ -45,15 +45,15 @@ module.exports = {
   protectedRoutes: ['/'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:spencer.wushangbo@gmail.com',
+  email: 'mailto:3039139868@qq.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      name: '好康的',
+      link: 'https://www.bilibili.com/video/BV1GJ411x7h7',
     },
   ],
 
